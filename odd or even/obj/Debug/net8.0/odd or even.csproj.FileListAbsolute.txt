@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\bin\Debug\net8.0\odd or even.exe
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\bin\Debug\net8.0\odd or even.deps.json
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\bin\Debug\net8.0\odd or even.runtimeconfig.json
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\bin\Debug\net8.0\odd or even.dll
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\bin\Debug\net8.0\odd or even.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\obj\Debug\net8.0\odd or even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\obj\Debug\net8.0\odd or even.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\obj\Debug\net8.0\odd or even.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\obj\Debug\net8.0\odd or even.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\obj\Debug\net8.0\odd or even.dll
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\obj\Debug\net8.0\refint\odd or even.dll
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\obj\Debug\net8.0\odd or even.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\obj\Debug\net8.0\odd or even.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Dokumen\programming\odd or even\obj\Debug\net8.0\ref\odd or even.dll
