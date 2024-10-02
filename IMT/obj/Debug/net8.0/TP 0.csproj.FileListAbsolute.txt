@@ -1,0 +1,28 @@
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\bin\Debug\net8.0\TP 0.exe
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\bin\Debug\net8.0\TP 0.deps.json
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\bin\Debug\net8.0\TP 0.runtimeconfig.json
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\bin\Debug\net8.0\TP 0.dll
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\bin\Debug\net8.0\TP 0.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\obj\Debug\net8.0\TP 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\obj\Debug\net8.0\TP 0.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\obj\Debug\net8.0\TP 0.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\obj\Debug\net8.0\TP 0.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\obj\Debug\net8.0\TP 0.dll
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\obj\Debug\net8.0\refint\TP 0.dll
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\obj\Debug\net8.0\TP 0.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\obj\Debug\net8.0\TP 0.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Dokumen\programming\TP 0\obj\Debug\net8.0\ref\TP 0.dll
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\bin\Debug\net8.0\TP 0.exe
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\bin\Debug\net8.0\TP 0.deps.json
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\bin\Debug\net8.0\TP 0.runtimeconfig.json
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\bin\Debug\net8.0\TP 0.dll
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\bin\Debug\net8.0\TP 0.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\obj\Debug\net8.0\TP 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\obj\Debug\net8.0\TP 0.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\obj\Debug\net8.0\TP 0.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\obj\Debug\net8.0\TP 0.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\obj\Debug\net8.0\TP 0.dll
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\obj\Debug\net8.0\refint\TP 0.dll
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\obj\Debug\net8.0\TP 0.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\obj\Debug\net8.0\TP 0.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Dokumen\programming\IMT\obj\Debug\net8.0\ref\TP 0.dll
