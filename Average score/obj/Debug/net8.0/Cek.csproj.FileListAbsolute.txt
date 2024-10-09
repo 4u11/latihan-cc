@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\bin\Debug\net8.0\Cek.exe
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\bin\Debug\net8.0\Cek.deps.json
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\bin\Debug\net8.0\Cek.runtimeconfig.json
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\bin\Debug\net8.0\Cek.dll
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\bin\Debug\net8.0\Cek.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\obj\Debug\net8.0\Cek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\obj\Debug\net8.0\Cek.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\obj\Debug\net8.0\Cek.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\obj\Debug\net8.0\Cek.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\obj\Debug\net8.0\Cek.dll
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\obj\Debug\net8.0\refint\Cek.dll
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\obj\Debug\net8.0\Cek.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\obj\Debug\net8.0\Cek.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Dokumen\programming\Cek\obj\Debug\net8.0\ref\Cek.dll
