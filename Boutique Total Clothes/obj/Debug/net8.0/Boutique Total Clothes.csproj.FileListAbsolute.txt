@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\bin\Debug\net8.0\Boutique Total Clothes.exe
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\bin\Debug\net8.0\Boutique Total Clothes.deps.json
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\bin\Debug\net8.0\Boutique Total Clothes.runtimeconfig.json
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\bin\Debug\net8.0\Boutique Total Clothes.dll
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\bin\Debug\net8.0\Boutique Total Clothes.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\obj\Debug\net8.0\Boutique Total Clothes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\obj\Debug\net8.0\Boutique Total Clothes.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\obj\Debug\net8.0\Boutique Total Clothes.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\obj\Debug\net8.0\Boutique Total Clothes.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\obj\Debug\net8.0\Boutique Total Clothes.dll
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\obj\Debug\net8.0\refint\Boutique Total Clothes.dll
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\obj\Debug\net8.0\Boutique Total Clothes.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\obj\Debug\net8.0\Boutique Total Clothes.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Dokumen\programming\Boutique Total Clothes\obj\Debug\net8.0\ref\Boutique Total Clothes.dll

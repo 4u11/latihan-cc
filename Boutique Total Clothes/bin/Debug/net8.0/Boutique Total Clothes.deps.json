@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Boutique Total Clothes/1.0.0": {
+        "runtime": {
+          "Boutique Total Clothes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Boutique Total Clothes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
