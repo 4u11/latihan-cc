@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\obj\Debug\net8.0\public challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\obj\Debug\net8.0\public challenge.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\obj\Debug\net8.0\public challenge.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\obj\Debug\net8.0\public challenge.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\bin\Debug\net8.0\public challenge.exe
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\bin\Debug\net8.0\public challenge.deps.json
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\bin\Debug\net8.0\public challenge.runtimeconfig.json
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\bin\Debug\net8.0\public challenge.dll
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\bin\Debug\net8.0\public challenge.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\obj\Debug\net8.0\public challenge.dll
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\obj\Debug\net8.0\refint\public challenge.dll
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\obj\Debug\net8.0\public challenge.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\obj\Debug\net8.0\public challenge.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Dokumen\programming\public challenge\obj\Debug\net8.0\ref\public challenge.dll
