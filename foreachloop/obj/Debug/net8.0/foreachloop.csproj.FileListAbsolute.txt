@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\bin\Debug\net8.0\foreachloop.exe
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\bin\Debug\net8.0\foreachloop.deps.json
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\bin\Debug\net8.0\foreachloop.runtimeconfig.json
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\bin\Debug\net8.0\foreachloop.dll
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\bin\Debug\net8.0\foreachloop.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\obj\Debug\net8.0\foreachloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\obj\Debug\net8.0\foreachloop.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\obj\Debug\net8.0\foreachloop.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\obj\Debug\net8.0\foreachloop.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\obj\Debug\net8.0\foreachloop.dll
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\obj\Debug\net8.0\refint\foreachloop.dll
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\obj\Debug\net8.0\foreachloop.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\obj\Debug\net8.0\foreachloop.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Dokumen\programming\foreachloop\obj\Debug\net8.0\ref\foreachloop.dll
