@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\bin\Debug\net8.0\arrau.exe
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\bin\Debug\net8.0\arrau.deps.json
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\bin\Debug\net8.0\arrau.runtimeconfig.json
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\bin\Debug\net8.0\arrau.dll
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\bin\Debug\net8.0\arrau.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\obj\Debug\net8.0\arrau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\obj\Debug\net8.0\arrau.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\obj\Debug\net8.0\arrau.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\obj\Debug\net8.0\arrau.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\obj\Debug\net8.0\arrau.dll
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\obj\Debug\net8.0\refint\arrau.dll
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\obj\Debug\net8.0\arrau.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\obj\Debug\net8.0\arrau.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Dokumen\programming\arrau\obj\Debug\net8.0\ref\arrau.dll
