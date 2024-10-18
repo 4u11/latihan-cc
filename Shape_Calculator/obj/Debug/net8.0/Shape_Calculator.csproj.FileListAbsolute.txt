@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\bin\Debug\net8.0\Shape_Calculator.exe
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\bin\Debug\net8.0\Shape_Calculator.deps.json
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\bin\Debug\net8.0\Shape_Calculator.runtimeconfig.json
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\bin\Debug\net8.0\Shape_Calculator.dll
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\bin\Debug\net8.0\Shape_Calculator.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\obj\Debug\net8.0\Shape_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\obj\Debug\net8.0\Shape_Calculator.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\obj\Debug\net8.0\Shape_Calculator.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\obj\Debug\net8.0\Shape_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\obj\Debug\net8.0\Shape_Calculator.dll
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\obj\Debug\net8.0\refint\Shape_Calculator.dll
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\obj\Debug\net8.0\Shape_Calculator.pdb
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\obj\Debug\net8.0\Shape_Calculator.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Dokumen\programming\Shape_Calculator\obj\Debug\net8.0\ref\Shape_Calculator.dll
